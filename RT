@@ -18,7 +18,7 @@ no shutdown
 exit
 
 interface g0/0
-ip address 172.30.104.1 255.255.255.0
+ip address 172.30.104.2 255.255.255.0
 description REDE FIREWALL
 no shutdown
 exit
