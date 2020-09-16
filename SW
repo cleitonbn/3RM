@@ -25,3 +25,13 @@ interface f0/2
 switchport mode access
 switchport access vlan 20
 exit
+
+interface g0/1
+switchport mode access
+switchport access vlan 10
+exit
+
+interfae g0/2
+switchport mode access
+switchport access vlan 20
+exit
